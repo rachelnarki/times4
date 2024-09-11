@@ -7,7 +7,7 @@
 #'
 #' @examples
 #' times4(3)
-#'
+
 
 times4 <- function(x = 3) {
   # Check if input is a character string and extract numbers
